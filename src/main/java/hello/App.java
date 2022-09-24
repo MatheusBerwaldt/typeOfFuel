@@ -23,7 +23,7 @@ public class App {
                     break;
             }
         }
-        return "MUITO OBRIGADO!" + "\nAlcool: " + alcool + "\nGasolina: " + gas + "\nDiesel: "+ diesel;
+        return "MUITO OBRIGADO" + "\nAlcool: " + alcool + "\nGasolina: " + gas + "\nDiesel: "+ diesel;
     }
 
     public static void main(String[] args) {
